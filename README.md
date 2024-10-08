@@ -1,5 +1,5 @@
 # Current ticket
-• Ongoing AI-based project;
+• Ongoing AI-based project;\
 • Figuring out AWS Lambda written in C++.
 
 # Introduction
